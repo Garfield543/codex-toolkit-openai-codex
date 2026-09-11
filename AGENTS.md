@@ -24,8 +24,8 @@
 
 ## GitHub
 
-- 預定 repository：`codex-toolkit-openai-codex`
-- 可見性：私有（private）。
+- repository：[Garfield543/codex-toolkit-openai-codex](https://github.com/Garfield543/codex-toolkit-openai-codex)
+- 可見性：公開（public）。
 - 預定部署：GitHub Pages，網站來源為 `docs/`，部署 workflow 位於 `.github/workflows/pages.yml`。
 - 只提交本專案相關變更；提交前先檢查 `git diff`。
 
@@ -42,3 +42,5 @@
 2. 檢查 `git diff`，只提交本次相關檔案。
 3. 若已授權且遠端可用，才執行 commit 與 push。
 4. 回報 Obsidian、`AGENTS.md` 與 GitHub 的同步結果及實際檔案位置。
+
+
